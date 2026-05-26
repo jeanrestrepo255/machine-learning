@@ -57,8 +57,6 @@ pip install -r requirements.txt
 jupyter notebook notebook.ipynb
 ```
 
-El cuaderno se ejecuta de principio a fin sin intervención manual. Todas las semillas aleatorias están fijadas (`random_state=42`).
-
 ---
 
 ## Tecnologías
