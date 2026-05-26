@@ -1,4 +1,4 @@
-# Predicción de Cancelaciones de Reservas Hoteleras
+# Predicción de cancelaciones de reservas hoteleras
 
 **Trabajo Final — Machine Learning**
 
