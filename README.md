@@ -1,7 +1,10 @@
 # Predicción de Cancelaciones de Reservas Hoteleras
 
 **Trabajo Final — Machine Learning**
-**Jean Pierre Restrepo Casafús & Juan Camilo Restrepo Henao**
+Por:
+- **Jean Pierre Restrepo Casafús**
+- **Juan Camilo Restrepo Henao**
+
 Institución Universitaria Pascual Bravo · 2025
 
 ---
