@@ -6,7 +6,7 @@
 - **Jean Pierre Restrepo Casafús**
 - **Juan Camilo Restrepo Henao**
 
-Institución Universitaria Pascual Bravo · 2025
+Institución Universitaria Pascual Bravo · 2026
 
 ---
 
